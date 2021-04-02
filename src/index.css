@@ -52,3 +52,7 @@ ol, ul {
 .is-active {
   font-weight: bold;
 }
+
+.is-highlight {
+  background-color: yellow;
+}
